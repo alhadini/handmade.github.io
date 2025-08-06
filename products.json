@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Romantic Bag",
+        "price": "150",
+        "category": "Bag",
+        "image": "https://drive.google.com/thumbnail?id=18c2vdggKxZznvGukHQRpGMG5zkc4s0rS"
+    },
+    {
+        "name": "Girl Bag",
+        "price": "150",
+        "category": "Bag",
+        "image": "https://drive.google.com/thumbnail?id=1o67uAOzQvFDhMy3EAql7snk5uUVD7KaR"
+    },
+    {
+        "name": "Jute Handmade Bag",
+        "price": "180",
+        "category": "Bag",
+        "image": "https://drive.google.com/thumbnail?id=1KE_yIgkT2ZHcrjGJpF2Y0KZe20gWDq4Y"
+    },
+    {
+        "name": "Handmade Bangles (1 PS)",
+        "price": "30",
+        "category": "Bangles",
+        "image": "https://drive.google.com/thumbnail?id=10NsyRKoz50WlbSFvlJ9SvC6Bgj7iC5YU"
+    },
+    {
+        "name": "Handmade Earrings",
+        "price": "30",
+        "category": "Earring",
+        "image": "https://drive.google.com/thumbnail?id=1NIx3yh4PEOdlzJBRc1LkiZdFY9gnvxNy"
+    },
+    {
+        "name": "Handmade Rakhi ( Dada , Vai )",
+        "price": "30",
+        "category": "Rakhi",
+        "image": "https://drive.google.com/thumbnail?id=1iDI0iikgJa2dvkXz8n4BYNNy0nij9UiS"
+    },
+    {
+        "name": "Handmade Clay Rakhi",
+        "price": "40",
+        "category": "Rakhi",
+        "image": "https://drive.google.com/thumbnail?id=1GVoyvnoYWfdNj83m8YH2Ydi8zEdV_cpC"
+    },
+    {
+        "name": "Batman T-shirt",
+        "price": "250",
+        "category": "T-shirt",
+        "image": "https://drive.google.com/thumbnail?id=1uK8kqVmMEEk4g0Z_Bawt83HPEtV_WUOR"
+    },
+    {
+        "name": "Harry Potter T-shirt",
+        "price": "250",
+        "category": "T-shirt",
+        "image": "https://drive.google.com/thumbnail?id=1RJDjGriA35fvfTjruHssKJ5kcGVzIscU"
+    },
+    {
+        "name": "Pother Panchali T-shirt",
+        "price": "250",
+        "category": "T-shirt",
+        "image": "https://drive.google.com/thumbnail?id=1h8UMlO2hYr3-Od6DZmO6plmH_RbMuAaz"
+    },
+    {
+        "name": "Baul T-shirt",
+        "price": "250",
+        "category": "T-shirt",
+        "image": "https://drive.google.com/thumbnail?id=16QTNduqLQ5R5tgTLb5AW2jDH1YE2r8B5"
+    },
+    {
+        "name": "Goru Matir Thala",
+        "price": "180",
+        "category": "Matir-thala",
+        "image": "https://drive.google.com/thumbnail?id=1XNPCg7DDdEq75ctddCP6DBPD8wGomWi1"
+    },
+    {
+        "name": "Krishna Matir Thala",
+        "price": "220",
+        "category": "Matir-thala",
+        "image": "https://drive.google.com/thumbnail?id=1kazw6g39aNxehPCCD53G8nYUpag9A-kT"
+    },
+    {
+        "name": "Handmade Necklace",
+        "price": "250",
+        "category": "Necklace",
+        "image": "https://drive.google.com/thumbnail?id=1tl0AW1bV3ixE7-DPMc4X1c9wYYYqpV8h"
+    },
+    {
+        "name": "Handmade Necklace",
+        "price": "200",
+        "category": "Necklace",
+        "image": "https://drive.google.com/thumbnail?id=1zvZ5VweCRRmY8hIZ1oLbCoHQH2KEGozv"
+    },
+    {
+        "name": "Handmade Necklace",
+        "price": "280",
+        "category": "Necklace",
+        "image": "https://drive.google.com/thumbnail?id=1zIpasdWrHahNLdSNJ0dbdVQH1IbYY_uf"
+    },
+    {
+        "name": "Handmade Necklace",
+        "price": "150",
+        "category": "Necklace",
+        "image": "https://drive.google.com/thumbnail?id=1-BYXalobzlPMGBuYjgfk_aBcRWTeO7CF"
+    },
+    {
+        "name": "Handmade Necklace",
+        "price": "80",
+        "category": "Necklace",
+        "image": "https://drive.google.com/thumbnail?id=1NHZXeg7_nVi9pDyplzQiZVXK4R2ouR96"
+    },
+    {
+        "name": "Handmade Necklace",
+        "price": "150",
+        "category": "Necklace",
+        "image": "https://drive.google.com/thumbnail?id=1g8-HpWgJSwatAQLJLLgEqqKYYSDDO02D"
+    },
+    {
+        "name": "Phone Cover Art (For Painting)",
+        "price": "80",
+        "category": "Phone-cover",
+        "image": "https://drive.google.com/thumbnail?id=1GHnHBbO98QxUCMH1m26UVkOTAxFqyVsM"
+    },
+    {
+        "name": "Phone Cover Art (For Painting)",
+        "price": "80",
+        "category": "Phone-cover",
+        "image": "https://drive.google.com/thumbnail?id=1u6G3jAGEo6o8gLAHNWUsBmb3x7gzvGs-"
+    },
+    {
+        "name": "Phone Cover Art (For Painting)",
+        "price": "80",
+        "category": "Phone-cover",
+        "image": "https://drive.google.com/thumbnail?id=12Fmb2SVasRtOxTs14OeSW3agHOZjB61X"
+    },
+    {
+        "name": "Lakhir Bhandar ( Art Painting )",
+        "price": "40",
+        "category": "Bhandar",
+        "image": "https://drive.google.com/thumbnail?id=1u1aFS6dZMbPINdUANHIQLlxadU4U1ERU"
+    }
+]
