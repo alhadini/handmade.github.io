@@ -48,4 +48,15 @@ body {
     color: #392600;
     opacity: 0.8;
 }
+#sortBtn:hover{
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    border: solid 0.2rem #392600;
+    color: #392600;
+    opacity: 0.8;
+}
+
 
