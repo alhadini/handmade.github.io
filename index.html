@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alhadini</title>
+    <link rel="icon" type="image/x-icon" href="img/tab-logo.ico">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css"
+        integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css"
+        integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- =========================================================== -->
+</head>
+
+<body>
+    <!-- Navbar ====================================================== -->
+    <section id="navbar" class="sticky-top">
+        <nav class="navbar">
+            <div class="container d-flex justify-content-between align-items-center">
+                <img src="img/navbar logo.webp" alt="Profile Photo" class="nav-logo img-fluid rounded-circle">
+                <div class="navbar-text mx-3">
+                    <a href="index.html"><img src="img/ala we.webp" alt="logo" class="mid-logo img-fluid"></a>
+                </div>
+                <div>
+                    <i class="fa-solid fa-bars" type="button" data-bs-toggle="offcanvas"
+                        data-bs-target="#offcanvas"></i>
+                </div>
+            </div>
+        </nav>
+    </section>
+
+    <!-- Carosol Section ======================================================== -->
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/car-1-banner.webp" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="img/car-2-banner.webp" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="img/car-3-banner.webp" class="d-block w-100" alt="...">
+            </div>
+        </div>
+    </div>
+
+    <!-- Categories ============================================================== -->
+    <section id="categories" class="my-3">
+        <div class="container">
+            <h1 class="text-center">Shop by Categories</h1>
+
+            <div class="container">
+                <!-- Jwellery -->
+                <div class="card border-0 my-3">
+                    <img src="pro/jewellery-banner.webp" class="card-img shadow-lg" alt="View Products">
+                    <div class="card-img-overlay d-flex align-items-center justify-content-end flex-column">
+                        <a href="display.html?category=jewellery"><button class="card-btn"
+                                data-bs-target="#nav">jewellery</button></a>
+                    </div>
+                </div>
+                <!-- Cloths -->
+                <div class="card border-0 my-3">
+                    <img src="pro/cloths-banner.webp" class="card-img shadow-lg" alt="View Products">
+                    <div class="card-img-overlay d-flex align-items-center justify-content-end flex-column">
+                        <a href="display.html?category=Cloths"><button class="card-btn" data-bs-target="#nav">Cloths
+                                </button></a>
+                    </div>
+                </div>
+                <!-- Bags -->
+                <div class="card border-0 my-3">
+                    <img src="pro/bag-banner.webp" class="card-img shadow-lg"alt="View Products">
+                    <div class="card-img-overlay d-flex align-items-center justify-content-end flex-column">
+                        <a href="display.html?category=Bag"><button class="card-btn"
+                                data-bs-target="#nav">Bags</button></a>
+                    </div>
+                </div>
+                <!-- Others -->
+                <div class="card border-0 my-3">
+                    <img src="pro/phone_cover-banner.webp" class="card-img shadow-lg" alt="View Products">
+                    <div class="card-img-overlay d-flex align-items-center justify-content-end flex-column">
+                        <a href="display.html?category=Phone_cover"><button class="card-btn" data-bs-target="#nav">Phone Cover
+                                </button></a>
+                    </div>
+                </div>
+
+
+                <div class="card border-0 my-3">
+                    <img src="pro/matir_thala-banner.webp" class="card-img shadow-lg" alt="View Products">
+                    <div class="card-img-overlay d-flex align-items-center justify-content-end flex-column">
+                        <a href="display.html?category=Matir_thala"><button class="card-btn" data-bs-target="#nav">Matir Thala
+                                </button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- Banner Section ========================================================== -->
+    <section id="banner" class="my-3">
+        <img src="img/alhadini-banner.webp" alt="Banner" class="img-fluid">
+    </section>
+
+    <!-- Testimonial ============================================================= -->
+    <section id="testimonial" class="my-3 px-3">
+        <div class="container">
+            <h1 class="text-center">Customer Say!</h1>
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="card testimonial-card mx-auto">
+                            <div class="card-body">
+                                <p class="testimonial-text">"অনেক সুন্দর ডিজাইন! সবাই প্রশংসা করেছে।❤️"</p>
+                                <h6 class="testimonial-name">— Tiyasha</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="card testimonial-card mx-auto">
+                            <div class="card-body">
+                                <p class="testimonial-text">"খুব ইউনিক আর যত্নসহকারে বানানো প্রোডাক্ট।"</p>
+                                <h6 class="testimonial-name">— Anjali</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="card testimonial-card mx-auto">
+                            <div class="card-body">
+                                <p class="testimonial-text">"ব্রেসলেট আর ইয়াররিংটা একদম পারফেক্ট ছিল।"</p>
+                                <h6 class="testimonial-name">— Priya</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Social Media ============================================================ -->
+    <section id="social" class="my-5 px-3">
+        <h1 class="text-center">Follow Us On</h1>
+        <div class="container social-div py-3">
+            <a href="#"><i class="fab fa-youtube"></i></a>
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-pinterest-p"></i></a>
+        </div>
+
+        <h5 class="text-center">© 2025 Alhadini. All Rights Reserved.</h5>
+    </section>
+
+
+
+
+
+
+    <!-- Offcanvas =============================================================== -->
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvas" aria-labelledby="offcanvasLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasLabel">Menu</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body d-flex flex-column justify-content-between">
+            <ul class="nav flex-column">
+                <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#social">Contact</a></li>
+
+            </ul>
+            <!-- Bottom Navigation Links -->
+            <ul class="nav flex-column mt-auto">
+                <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+            </ul>
+        </div>
+    </div>
+
+
+
+
+
+    <!-- Script =========================================== -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
