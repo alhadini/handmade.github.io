@@ -38,7 +38,7 @@ body {
 }
 
 /* Main Section  =================================== */
-#sortBtn{
+#sortBtn {
     padding: 0.5rem 1rem;
     font-size: 1rem;
     font-weight: bold;
@@ -46,18 +46,25 @@ body {
     letter-spacing: 0.1rem;
     border: solid 0.2rem #392600;
     color: #392600;
-    opacity: 0.8;
+    background-color: transparent;
+    opacity: 1;
+    transition: all 0.2s ease;
 }
-#sortBtn:active{
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 0.1rem;
-    border: solid 0.2rem #392600;
-    color: #392600;
-    opacity: 0.8;
+
+#sortBtn:hover {
+    background-color: #392600;
+    color: #fff;
+    opacity: 1;
 }
+
+#sortBtn:active {
+    background-color: #4a3300;
+    color: #fff;
+    transform: scale(0.98);
+    opacity: 1;
+}
+
+
 
 
 
