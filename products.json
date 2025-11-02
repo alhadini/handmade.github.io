@@ -2,7 +2,7 @@
     {
         "price": "179",
         "category": "Bag",
-        "image": "https://drive.google.com/thumbnail?id=1tLQ5IDoF_M3n15modfF6adrsdbfr3p_A",
+        "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762056269/IMG_20251101_154427_rvs6sm.webp",
         "date": "2025-11-01"
     },
     {
@@ -84,6 +84,7 @@
 }
 
 ]
+
 
 
 
