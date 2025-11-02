@@ -49,7 +49,7 @@
 {
   "price": "199",
   "category": "Cloths",
-  "image": "https://drive.google.com/thumbnail?id=14uQP865ZIV5Wmynu3WTYh2g68f2v0yWV",
+  "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762053776/1761997566069_asmihx.webp",
   "date": "2025-11-01"
 },
 {
@@ -84,6 +84,7 @@
 }
 
 ]
+
 
 
 
