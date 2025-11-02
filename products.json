@@ -1,94 +1,122 @@
 [
-    {
-        "price": "179",
-        "category": "Bag",
-        "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762056269/IMG_20251101_154427_rvs6sm.webp",
-        "date": "2025-11-01"
-    },
-    {
-        "price": "179",
-        "category": "Bag",
-        "image": "https://drive.google.com/thumbnail?id=18c2vdggKxZznvGukHQRpGMG5zkc4s0rS",
-        "date": "2025-11-01"
-    },
-    {
-  "price": "149",
-  "category": "Bag",
-  "image": "https://drive.google.com/thumbnail?id=1o67uAOzQvFDhMy3EAql7snk5uUVD7KaR",
-  "date": "2025-11-01"
-},
-{
-  "price": "179",
-  "category": "Bag",
-  "image": "https://drive.google.com/thumbnail?id=1KE_yIgkT2ZHcrjGJpF2Y0KZe20gWDq4Y",
-  "date": "2025-11-01"
-},
-{
-  "price": "149",
-  "category": "Bag",
-  "image": "https://drive.google.com/thumbnail?id=1Ygr8YKahYytk_hVnJElZmqXZogP42RwK",
-  "date": "2025-11-01"
-},{
-  "price": "149",
-  "category": "Bag",
-  "image": "https://drive.google.com/thumbnail?id=1F0r7LTvczWZDGN2zEgk1qEpvzWfaCdN5",
-  "date": "2025-11-01"
-},
-{
-  "price": "199",
-  "category": "Cloths",
-  "image": "https://drive.google.com/thumbnail?id=1EENXOeQjYVkmhaVBHB62z4mg2tZuYGDB",
-  "date": "2025-11-01"
-},
-{
-  "price": "199",
-  "category": "Cloths",
-  "image": "https://drive.google.com/thumbnail?id=1IJ-LqXE7AcKVOvNHa9k4D2xgfuXs46__",
-  "date": "2025-11-01"
-},
-{
-  "price": "199",
-  "category": "Cloths",
-  "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762053776/1761997566069_asmihx.webp",
-  "date": "2025-11-01"
-},
-{
-  "price": "199",
-  "category": "Cloths",
-  "image": "https://drive.google.com/thumbnail?id=1ByM4my3iSs0Ey33F_PX0RSxJBXTsWDlQ",
-  "date": "2025-11-01"
-},
-    {
-  "price": "199",
-  "category": "Cloths",
-  "image": "https://drive.google.com/thumbnail?id=16QTNduqLQ5R5tgTLb5AW2jDH1YE2r8B5",
-  "date": "2025-11-01"
-},
-    {
-  "price": "199",
-  "category": "Cloths",
-  "image": "https://drive.google.com/thumbnail?id=14uQP865ZIV5Wmynu3WTYh2g68f2v0yWV",
-  "date": "2025-11-01"
-},
-    {
-  "price": "199",
-  "category": "Cloths",
-  "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762053776/1761997566069_asmihx.webp",
-  "date": "2025-11-01"
-},
-    {
-  "price": "199",
-  "category": "Cloths",
-  "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762053776/1761997566069_asmihx.webp",
-  "date": "2025-11-01"
-}
-
+  {
+    "price": "179",
+    "category": "Bag",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762087572/1762086898638_xh2y6t.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "149",
+    "category": "Bag",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762087199/IMG_20251101_155656_k6rhin.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "149",
+    "category": "Bag",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762087193/bag-1_vlphfw.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "149",
+    "category": "Bag",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762087194/IMG_20251101_161308_vgalqf.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "189",
+    "category": "Bag",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762087194/bag-3_d0as6q.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "149",
+    "category": "Bag",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762087194/bag-2_yg4gln.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "179",
+    "category": "Bag",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762056269/IMG_20251101_154427_rvs6sm.webp",
+    "date": "2025-11-02"
+  },
+   {
+    "price": "199",
+    "category": "Cloths",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088475/1761997566056_r7qc3p.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "199",
+    "category": "Cloths",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088474/t-shirt-2_iembhp.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "199",
+    "category": "Cloths",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088479/t-shirt-4_n9vxbt.jpg",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "199",
+    "category": "Cloths",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088476/1761997566069_vrmugl.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "199",
+    "category": "Cloths",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088473/1761997566030_mgtifm.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "199",
+    "category": "Cloths",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088473/t-shirt-1_p391v2.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "199",
+    "category": "Cloths",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088473/t-shirt-3_wdf2eg.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "199",
+    "category": "Cloths",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088473/1761997566043_qogaim.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "199",
+    "category": "Matir_Thala",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088753/thala-2_n2dq2r.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "199",
+    "category": "Matir_Thala",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088760/thala-1_sruoor.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "89",
+    "category": "Phone_cover",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088849/p-cover-3_cxxwji.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "89",
+    "category": "Phone_cover",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088859/p-cover-2_c19tpa.webp",
+    "date": "2025-11-02"
+  },
+  {
+    "price": "89",
+    "category": "Phone_cover",
+    "image": "https://res.cloudinary.com/drmf5owpv/image/upload/v1762088867/p-cover-1_lmmxwd.webp",
+    "date": "2025-11-02"
+  }
 ]
-
-
-
-
-
-
-
-
